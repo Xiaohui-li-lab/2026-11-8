@@ -23,3 +23,15 @@ The CQL hypothesis proposes that human language functions as a coarse-grained ch
 
 ## Repository Structure
 
+
+
+
+├── data/ # Generated simulation outputs (CSV) 
+├── figures/ # Generated figures (PNG/PDF) 
+├── notebooks/ # Jupyter notebooks for interactive exploration 
+├── scripts/ # Command-line runnable scripts 
+├── src/ # Reusable Python modules 
+├── README.md # This file
+└── requirements.txt # Python dependencies
+
+
